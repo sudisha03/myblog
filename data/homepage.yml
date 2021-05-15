@@ -1,0 +1,159 @@
+# banner
+banner:
+  title : "Hi! I’m Sudisha Mishra"
+
+# about
+about:
+  enable : true
+  content : "I'm a full-time inbound marketing specialist with expertise in content marketing, communications, and multimedia production. Interested in writing factual stories about the subaltern, technology, rural India, female empowerment, and global health."
+  button:
+    enable : true
+    label : "know more"
+    URL : "about"
+
+# skill
+skill:
+  enable : true
+  title : "Skills"
+  item:
+    - title : "Content Strategy"
+      progress : "100%"
+      color : "#800517"
+      
+    - title : "Adobe Creative Cloud"
+      progress : "60%"
+      color : "#FAAFBE"
+      
+    - title : "Inbound Marketing"
+      progress : "80%"
+      color : "#F6358A"
+      
+    - title : "Photography/Filmography"
+      progress : "70%"
+      color : "#E8ADAA"
+
+# experience
+experience:
+  enable : true
+  title : "Experience"
+  item: 
+    - logo : "images/experience/icon-1.png"
+      title : "Content Editor"
+      company : "AdPushup"
+      duration : "Dec 2019 - Present"
+      
+    - logo : "images/experience/icon-1.png"
+      title : "Senior Content Writer"
+      company : "IndustryArc"
+      duration : "Feb 2019 - Oct 2019"
+      
+    - logo : "images/experience/icon-1.png"
+      title : "Business Associate"
+      company : "Bank of Baroda"
+      duration : "Jun 2018 - Jan 2019"
+
+    - logo : "images/experience/icon-1.png" 
+      title : "Intern"
+      company : "The Hindu"
+      duration : "Dec 2015 - Jan 2016"
+
+# education
+education:
+  enable : true
+  title : "Education"
+  item:
+    - title : "Masters in English Literature"
+      year : "2022"
+      academy : "IGNOU"
+      
+    - title : "BA (Hons.) in English Literature"
+      year : "2016"
+      academy : "Delhi University"
+  
+
+# service
+service:
+  enable : true
+  title : "Services"
+  item:
+    - title : "Inbound Marketing"
+      icon : "ti-write"
+      content : "Nearly 8 years of creating SEO-friendly content to increase/nurture inbound funnel leads"
+      highlighted : false
+
+    - title : "Videography"
+      icon : "ti-video-camera"
+      content : "Skilled at videography and post-processing in Adobe Premiere Pro and Adobe After Effects"
+      highlighted : true
+
+    - title : "Photography"
+      icon : "ti-camera"
+      content : "Advanced-level experience in photography and post-processing in Adobe Lightroom and Photoshop"
+      highlighted : false
+
+# portfolio
+portfolio:
+  enable : true
+  title : "Portfolio"
+  item_show : 5
+  # portfolio item comes from 'data/portfolio.yml' item.
+
+# testimonial
+testimonial:
+  enable : false
+  title : "Testimonials"
+  item:
+    - name : "Jesica Gomez"
+      image : "images/testimonial/client-1.png"
+      designation : "CEO, Funder"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      
+    - name : "Shirley Scot"
+      image : "images/testimonial/client-1.png"
+      designation : "CEO, Funder"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      
+    - name : "Jessica Julie"
+      image : "images/testimonial/client-1.png"
+      designation : "CEO, Funder"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+
+# client logo slider
+clients_logo_slider:
+  enable : false
+  item:
+    - logo : "images/clients-logo/client-logo-1.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-2.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-3.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-4.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-5.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-1.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-2.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-3.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-4.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-5.png"
+      URL : "#"
+
+# blog
+blog:
+  enable : true
+  title : "Blogs"
+  # blog post comes from "content/blog" folder

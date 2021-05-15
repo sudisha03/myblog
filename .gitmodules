@@ -1,0 +1,3 @@
+[submodule "themes/kross"]
+	path = themes/kross
+	url = git@github.com:sudisha03/kross-hugo.git
